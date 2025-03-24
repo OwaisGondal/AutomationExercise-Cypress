@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Cypress run
-        uses: cypress-io/github-action@v4
+        uses: cypress-io/github-action@v6
         if: always()
         with:
           name: cypress-execution-report
