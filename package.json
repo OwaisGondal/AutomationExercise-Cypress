@@ -1,0 +1,19 @@
+{
+  "name": "automationexercise-cypress",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwaisGondal/AutomationExercise-Cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwaisGondal/AutomationExercise-Cypress/issues"
+  },
+  "homepage": "https://github.com/OwaisGondal/AutomationExercise-Cypress#readme",
+  "description": ""
+}
