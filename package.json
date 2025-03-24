@@ -15,5 +15,8 @@
     "url": "https://github.com/OwaisGondal/AutomationExercise-Cypress/issues"
   },
   "homepage": "https://github.com/OwaisGondal/AutomationExercise-Cypress#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
 }
